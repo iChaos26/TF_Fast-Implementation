@@ -1,7 +1,10 @@
-# TF_Fast-Implementation - Simple framework to test the new version of Tensorflow, whose now is based on Keras API.
-
+# TFSeries - A study-driven to test the new version of Tensorflow, whose now is based on Keras API.
 # Requeriments:
 A prebuilt tensor ambient, with TF 2.0. The fastest way is to download docker prebuilt TensorFlow with gpu: https://www.tensorflow.org/install/docker
+
+##What is done so far:
+-Inicial Implementation.
+-Gradient Boosted Trees: Model understanding
 
 ## TF Docker:
 Install Docker and NVIDIA Docker support: 

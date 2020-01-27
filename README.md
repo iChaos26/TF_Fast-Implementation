@@ -2,7 +2,7 @@
 # Requeriments:
 A prebuilt tensor ambient, with TF 2.0. The fastest way is to download docker prebuilt TensorFlow with gpu: https://www.tensorflow.org/install/docker
 
-##What is done so far:
+## What is done so far:
 -Inicial Implementation.
 -Gradient Boosted Trees: Model understanding
 

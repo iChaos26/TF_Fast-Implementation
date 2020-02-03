@@ -4,7 +4,8 @@ A prebuilt tensor ambient, with TF 2.0. The fastest way is to download docker pr
 
 ## What is done so far:
 -Inicial Implementation.<br /> 
--Gradient Boosted Trees: Model understanding.
+-Gradient Boosted Trees: Model understanding (On Loading).<br />
+-Demand Prediction with LSTMs
 
 ## TF Docker:
 Install Docker and NVIDIA Docker support: 
